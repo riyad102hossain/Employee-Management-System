@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Employ_wafi_solution.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Employ_wafi_solution.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915155843318.jpg",
+      "PackagePath": "staticwebassets\\Image\\20240915155843318.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915161757449.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915161757449.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915161824916.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915161824916.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915161833869.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915161833869.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915161843418.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915161843418.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915161853763.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915161853763.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915161909143.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915161909143.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915161918918.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915161918918.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162051627.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162051627.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162102496.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162102496.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162112019.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162112019.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162129028.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162129028.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162140544.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162140544.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162149196.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162149196.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162158184.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162158184.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162747115.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162747115.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162756435.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162756435.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162809206.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162809206.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162819865.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162819865.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162832037.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162832037.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162843806.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162843806.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162854086.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162854086.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162907935.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162907935.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162917666.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162917666.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162927593.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162927593.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915162951072.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915162951072.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163004414.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163004414.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163016107.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163016107.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163029503.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163029503.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163039873.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163039873.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163052503.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163052503.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163103058.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163103058.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163112786.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163112786.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163125292.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163125292.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163137527.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163137527.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163150793.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163150793.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163204016.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163204016.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163216189.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163216189.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163227330.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163227330.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163239863.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163239863.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163252137.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163252137.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163304412.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163304412.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163315837.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163315837.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163325183.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163325183.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163335884.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163335884.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163349018.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163349018.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163358515.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163358515.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915163406614.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915163406614.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915172537508.jpg",
+      "PackagePath": "staticwebassets\\Image\\20240915172537508.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915172840387.png",
+      "PackagePath": "staticwebassets\\Image\\20240915172840387.png"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\Image\\20240915195252371.jpeg",
+      "PackagePath": "staticwebassets\\Image\\20240915195252371.jpeg"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net project\\WafiSolution\\Employ_wafi_solution\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Employ_wafi_solution.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Employ_wafi_solution.props",
+      "PackagePath": "build\\Employ_wafi_solution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Employ_wafi_solution.props",
+      "PackagePath": "buildMultiTargeting\\Employ_wafi_solution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Employ_wafi_solution.props",
+      "PackagePath": "buildTransitive\\Employ_wafi_solution.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
