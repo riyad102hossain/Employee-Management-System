@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/fa4970b3-9db0-4023-bdea-23513fcf8d7b)
 
-# Employee Management System
+ # Employee Management System
 
 ## About the Project
 
@@ -8,7 +8,7 @@ The **Employee Management System** is a web application designed to efficiently 
 
 ### Key Features:
 
-- **Add Employee**: Users can add new employees, including photo, first name, last name, email, mobile, and date of birth.
+- **Add Employee**: Users can add new employees, including their photo, first name, last name, email, mobile, and date of birth.
 - **Edit and Delete Actions**: The "Edit" button navigates to the edit page, allowing users to update existing employee records. The "Delete" button triggers a confirmation popup with "Yes" and "No" options to confirm or cancel the deletion.
 - **Sortable Columns**: Users can sort employee data by name, email, mobile, and date of birth.
 - **Pagination**: Employee data is fetched from the database in pages, ensuring that only a limited number of records are retrieved at a time, improving performance even with large datasets.
@@ -22,5 +22,4 @@ The **Employee Management System** is a web application designed to efficiently 
 - **Entity Framework Core**: For database interactions and object-relational mapping (ORM).
 - **Microsoft SQL Server**: For managing the application's relational database.
 - **JavaScript & jQuery**: For interactive elements like sorting, pagination, and date pickers.
-- **JavaScript Date Picker Plugin**: For easy date selection.
-- **Image Resizing Library**: Used to optimize employee photo uploads.
+
